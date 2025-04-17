@@ -1,4 +1,7 @@
 # simpledockerapp
+## components
+* **flask-app** - REST API based on Flask framework
+* **database** - MySQL database
 
 ## Step 1: create .env file
 ```cp .env.template .env```  for Unix-like systems
